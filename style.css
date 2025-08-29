@@ -11,6 +11,18 @@ head{
     color: rgb(109, 30, 184);
 }
 
+section{
+    background: rgb(rgb(156, 103, 112));
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{ 
+    margin-right: 5%;
+
+}
 
 
 
